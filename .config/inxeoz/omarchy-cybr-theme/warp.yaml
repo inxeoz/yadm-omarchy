@@ -1,0 +1,26 @@
+name: Aether
+accent: "#989fcd"
+cursor: "#989fcd"
+background: "#3b2b3b"
+foreground: "#ccb9b3"
+details: darker
+
+terminal_colors:
+  normal:
+    black:   "#3b2b3b"
+    red:     "#cd9898"
+    green:   "#9fc6b8"
+    yellow:  "#cdb498"
+    blue:    "#989fcd"
+    magenta: "#c2a3b3"
+    cyan:    "#9cc9c6"
+    white:   "#ccb9b3"
+  bright:
+    black:   "#816581"
+    red:     "#cd9898"
+    green:   "#9cc9b8"
+    yellow:  "#cdb498"
+    blue:    "#989fcd"
+    magenta: "#c3a2b3"
+    cyan:    "#9acbc8"
+    white:   "#ccb9b3"
